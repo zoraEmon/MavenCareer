@@ -1,4 +1,4 @@
-package com.russel.mavenproject;
+package com.russel.MavenCareer;
 
 /**
  * Hello world!
